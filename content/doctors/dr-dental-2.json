@@ -1,27 +1,18 @@
 {
-  "id": "dr-dental-2",
-  "order": 2,
-  "published": true,
-  "sample": true,
-  "photo": "",
-  "name": {
-    "ar": "اسم طبيبة الأسنان",
-    "en": "Dentist name"
-  },
-  "title": {
-    "ar": "أخصائية طب الأسنان",
-    "en": "Dental specialist"
-  },
+  "qualifications": [],
   "dept": "dentistry",
   "bio": {
     "ar": "نبذة مختصرة عن الطبيب وخبراته — تُستبدل بالنبذة المعتمدة.",
     "en": "A short bio about the doctor’s experience — to be replaced with the approved bio."
   },
-  "qualifications": [],
-  "services": [
-    "dental-implants",
-    "dental-cosmetic"
-  ],
+  "sample": true,
+  "name": {
+    "ar": "جهاد البحار",
+    "en": "Gehad Elbahar"
+  },
+  "published": true,
+  "order": 2,
+  "photo": "/uploads/female-patient-having-procedure-done-dentist-1-.jpg",
   "schedule": [
     {
       "day": "1",
@@ -33,5 +24,14 @@
       "from": "16:00",
       "to": "20:00"
     }
+  ],
+  "title": {
+    "ar": "أخصائية طب الأسنان",
+    "en": "Dental specialist"
+  },
+  "id": "gehad-elbahar",
+  "services": [
+    "dental-implants",
+    "dental-cosmetic"
   ]
 }
