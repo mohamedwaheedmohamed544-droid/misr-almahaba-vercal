@@ -1,0 +1,61 @@
+{
+  "slug": "icu",
+  "order": 2,
+  "published": true,
+  "icon": "heart",
+  "category": "acute",
+  "bookable": false,
+  "image": "",
+  "name": {
+    "ar": "العناية المركزة",
+    "en": "Intensive Care"
+  },
+  "summary": {
+    "ar": "رعاية مركزة عامة وتخصصية للحالات الحرجة تحت متابعة طبية وتمريضية مستمرة.",
+    "en": "General and specialized intensive care for critical cases under continuous medical and nursing monitoring."
+  },
+  "intro": {
+    "ar": "تضم المستشفى وحدات عناية مركزة عامة وتخصصية لرعاية الحالات الحرجة بعد العمليات الكبرى أو عند الحاجة لمراقبة دقيقة ومستمرة للعلامات الحيوية.",
+    "en": "The hospital runs general and specialized intensive care units for critical patients after major surgery or whenever close, continuous monitoring of vital signs is needed."
+  },
+  "offers": [
+    {
+      "ar": "عناية مركزة عامة",
+      "en": "General intensive care"
+    },
+    {
+      "ar": "عناية مركزة تخصصية",
+      "en": "Specialized intensive care"
+    },
+    {
+      "ar": "مراقبة مستمرة للعلامات الحيوية",
+      "en": "Continuous vital-sign monitoring"
+    },
+    {
+      "ar": "رعاية ما بعد العمليات الكبرى",
+      "en": "Post-operative critical care"
+    }
+  ],
+  "forWhom": [
+    {
+      "ar": "الحالات الحرجة",
+      "en": "Critically ill patients"
+    },
+    {
+      "ar": "مرضى ما بعد الجراحات الكبرى",
+      "en": "Patients after major surgery"
+    },
+    {
+      "ar": "الحالات المحوّلة من الطوارئ",
+      "en": "Cases referred from emergency"
+    }
+  ],
+  "services": [
+    "laboratory",
+    "blood-bank"
+  ],
+  "note": {
+    "ar": "",
+    "en": ""
+  }
+}

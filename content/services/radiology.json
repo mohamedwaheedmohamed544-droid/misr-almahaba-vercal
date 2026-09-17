@@ -1,0 +1,42 @@
+{
+  "slug": "radiology",
+  "order": 2,
+  "published": true,
+  "icon": "scan",
+  "category": "diagnostics",
+  "dept": "",
+  "bookable": true,
+  "image": "",
+  "name": {
+    "ar": "الأشعة والرنين المغناطيسي",
+    "en": "Radiology & MRI"
+  },
+  "summary": {
+    "ar": "وحدة أشعة متكاملة تشمل جهاز الرنين المغناطيسي لدعم التشخيص الدقيق.",
+    "en": "A full imaging unit, including MRI, for accurate diagnosis."
+  },
+  "offers": [
+    {
+      "ar": "الرنين المغناطيسي",
+      "en": "MRI"
+    },
+    {
+      "ar": "خدمات الأشعة التشخيصية",
+      "en": "Diagnostic imaging"
+    }
+  ],
+  "forWhom": [
+    {
+      "ar": "المحوّلون من العيادات والطوارئ",
+      "en": "Patients referred from clinics and emergency"
+    },
+    {
+      "ar": "من يحتاج تصويرًا تشخيصيًا",
+      "en": "Anyone needing diagnostic imaging"
+    }
+  ],
+  "note": {
+    "ar": "",
+    "en": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "opening-2019",
+  "published": true,
+  "type": "news",
+  "date": "2019-03-19",
+  "dateLabel": "",
+  "image": "/uploads/building-full.webp",
+  "title": {
+    "ar": "افتتاح مستشفى مصر المحبة ببني مزار",
+    "en": "Misr Al-Mahaba Hospital opens in Beni Mazar"
+  },
+  "excerpt": {
+    "ar": "الافتتاح الرسمي للمستشفى بعد انتقال تبعيتها إلى الكنيسة القبطية الأرثوذكسية.",
+    "en": "The hospital officially opens after its transfer to the Coptic Orthodox Church."
+  },
+  "body": [
+    {
+      "ar": "افتُتحت المستشفى رسميًا في مارس 2019، بعد انتقال تبعيتها في أبريل 2018 إلى أسقفية الخدمات العامة والاجتماعية بالكنيسة القبطية الأرثوذكسية، وتغيير اسمها من «راعي مصر» إلى «مصر المحبة».",
+      "en": "The hospital officially opened in March 2019, after ownership passed in April 2018 to the Coptic Orthodox Church’s Bishopric of Public and Social Services and its name changed from “Raei Misr” to “Misr Al-Mahaba”."
+    },
+    {
+      "ar": "واعتمدت المستشفى منذ افتتاحها نظامًا رقميًا للحجز وصرف الروشتات.",
+      "en": "From day one, the hospital adopted a digital system for bookings and prescriptions."
+    }
+  ],
+  "source": {
+    "name": {
+      "ar": "الوطن",
+      "en": "El Watan"
+    },
+    "url": "https://www.elwatannews.com/news/details/4073149"
+  }
+}

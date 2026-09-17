@@ -1,0 +1,47 @@
+{
+  "id": "dr-opd-1",
+  "order": 7,
+  "published": true,
+  "sample": true,
+  "photo": "",
+  "name": {
+    "ar": "اسم طبيب العيادة",
+    "en": "Clinic doctor name"
+  },
+  "title": {
+    "ar": "طبيب العيادات الخارجية",
+    "en": "Outpatient physician"
+  },
+  "dept": "outpatient",
+  "bio": {
+    "ar": "نبذة مختصرة عن الطبيب وخبراته — تُستبدل بالنبذة المعتمدة.",
+    "en": "A short bio about the doctor’s experience — to be replaced with the approved bio."
+  },
+  "qualifications": [],
+  "services": [
+    "laboratory",
+    "radiology"
+  ],
+  "schedule": [
+    {
+      "day": "0",
+      "from": "10:00",
+      "to": "15:00"
+    },
+    {
+      "day": "1",
+      "from": "10:00",
+      "to": "15:00"
+    },
+    {
+      "day": "2",
+      "from": "10:00",
+      "to": "15:00"
+    },
+    {
+      "day": "3",
+      "from": "10:00",
+      "to": "15:00"
+    }
+  ]
+}

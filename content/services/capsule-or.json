@@ -1,0 +1,38 @@
+{
+  "slug": "capsule-or",
+  "order": 5,
+  "published": true,
+  "icon": "scalpel",
+  "category": "treatment",
+  "dept": "surgery",
+  "bookable": false,
+  "image": "",
+  "name": {
+    "ar": "غرفة عمليات «الكبسولة»",
+    "en": "The “Capsule” Operating Room"
+  },
+  "summary": {
+    "ar": "غرفة عمليات مصممة للجراحات الدقيقة التي تتطلب أعلى درجات التعقيم.",
+    "en": "An operating room designed for delicate procedures that demand the highest sterility."
+  },
+  "offers": [
+    {
+      "ar": "الجراحات الدقيقة",
+      "en": "Delicate procedures"
+    },
+    {
+      "ar": "بيئة معقمة عالية التحكم",
+      "en": "Highly controlled sterile environment"
+    }
+  ],
+  "forWhom": [
+    {
+      "ar": "المرضى المحوّلون لجراحات دقيقة",
+      "en": "Patients referred for delicate surgery"
+    }
+  ],
+  "note": {
+    "ar": "",
+    "en": ""
+  }
+}

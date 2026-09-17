@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>دليل لوحة التحكم — مصر المحبة</title>
+<link rel="icon" href="/uploads/logo-96.webp">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;600&family=Readex+Pro:wght@500;600&display=swap">
+<style>
+  :root { --blue: #0F6CB4; --deep: #083A63; --sky: #E1EEF9; --ink: #0D2236; --ink2: #3D5367; --line: #D6E2EE; --bg: #F6F9FC; --orange: #C4562B; --orange-soft: #FBEAE2; --green: #1E7A4C; --green-soft: #E3F3EA; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 17px/1.9 "IBM Plex Sans Arabic", Tahoma, sans-serif; }
+  header { background: linear-gradient(135deg, var(--deep), var(--blue)); color: #fff; padding: 2.5rem 16px 3rem; }
+  .wrap { max-width: 920px; margin-inline: auto; padding-inline: 16px; }
+  header .wrap { display: flex; gap: 1rem; align-items: center; }
+  header img { width: 64px; height: 64px; border-radius: 50%; background: #fff; }
+  h1, h2, h3 { font-family: "Readex Pro", "IBM Plex Sans Arabic", sans-serif; line-height: 1.35; margin: 0; }
+  h1 { font-size: clamp(1.6rem, 1.2rem + 2vw, 2.3rem); }
+  header p { margin: .25rem 0 0; opacity: .85; }
+  nav.toc { background: #fff; border: 1px solid var(--line); border-radius: 18px; padding: 1.2rem 1.4rem; margin-top: -1.8rem; box-shadow: 0 10px 30px -18px rgba(13,34,54,.35); }
+  nav.toc ol { margin: .4rem 0 0; padding-inline-start: 1.2rem; columns: 2 240px; }
+  nav.toc a { color: var(--blue); text-decoration: none; }
+  section { background: #fff; border: 1px solid var(--line); border-radius: 18px; padding: 1.5rem 1.6rem; margin-block: 1.25rem; }
+  section h2 { font-size: 1.35rem; margin-bottom: .6rem; display: flex; gap: .6rem; align-items: center; }
+  section h2 span { width: 34px; height: 34px; border-radius: 50%; background: var(--sky); color: var(--blue); display: grid; place-items: center; font-size: .95rem; flex-shrink: 0; }
+  h3 { font-size: 1.05rem; margin: 1rem 0 .3rem; }
+  ol, ul { padding-inline-start: 1.3rem; margin: .4rem 0; }
+  li { margin-block: .25rem; }
+  code, kbd { background: var(--sky); color: var(--deep); padding: .05rem .45rem; border-radius: 6px; font-size: .9em; direction: ltr; unicode-bidi: isolate; }
+  .tip, .warn, .ok { border-radius: 12px; padding: .8rem 1rem; margin-block: .8rem; font-size: .95rem; }
+  .tip { background: var(--sky); } .warn { background: var(--orange-soft); } .ok { background: var(--green-soft); }
+  .flow { display: flex; flex-wrap: wrap; gap: .5rem; align-items: center; margin: .6rem 0; }
+  .flow b { background: var(--bg); border: 1px solid var(--line); border-radius: 999px; padding: .25rem .8rem; font-weight: 500; font-size: .92rem; }
+  .flow i { color: var(--blue); font-style: normal; }
+  table { width: 100%; border-collapse: collapse; font-size: .95rem; }
+  th, td { text-align: start; padding: .55rem .5rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+  th { color: var(--ink2); font-weight: 600; }
+  .btn { display: inline-block; background: var(--blue); color: #fff; text-decoration: none; padding: .6rem 1.2rem; border-radius: 999px; font-weight: 600; }
+  footer { text-align: center; color: var(--ink2); font-size: .9rem; padding: 2rem 16px 3rem; }
+  .scroll { overflow-x: auto; }
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <img src="/uploads/logo-256.webp" alt="">
+  <div><h1>دليل لوحة التحكم</h1><p>إدارة محتوى موقع مستشفى مصر المحبة — بدون أي خبرة برمجية</p></div>
+</div></header>
+
+<main class="wrap">
+  <nav class="toc" aria-label="المحتويات"><b>المحتويات</b>
+    <ol>
+      <li><a href="#how">كيف تعمل اللوحة؟</a></li>
+      <li><a href="#login">الدخول</a></li>
+      <li><a href="#doctors">الأطباء ومواعيدهم</a></li>
+      <li><a href="#depts">الأقسام والخدمات</a></li>
+      <li><a href="#news">الأخبار والمقالات</a></li>
+      <li><a href="#pages">الصفحات والإعدادات</a></li>
+      <li><a href="#images">الصور</a></li>
+      <li><a href="#workflow">المراجعة والنشر</a></li>
+      <li><a href="#safety">الحماية والتراجع عن خطأ</a></li>
+      <li><a href="#team">إضافة محررين</a></li>
+    </ol>
+  </nav>
+
+  <section id="how"><h2><span>1</span>كيف تعمل اللوحة؟</h2>
+    <p>كل ما تكتبه في اللوحة يُحفظ كملف داخل مستودع الموقع على GitHub، ثم يعيد Vercel بناء الموقع تلقائيًا وينشره.</p>
+    <div class="flow"><b>تعديل في اللوحة</b><i>←</i><b>حفظ على GitHub</b><i>←</i><b>فحص تلقائي للمحتوى</b><i>←</i><b>بناء ونشر على Vercel</b><i>←</i><b>يظهر على الموقع</b></div>
+    <div class="ok">يستغرق ظهور التعديل على الموقع من دقيقة إلى دقيقتين تقريبًا.</div>
+    <p>كل حقل نصي له خانتان: <b>العربية</b> (مطلوبة) و<b>English</b> (للنسخة الإنجليزية من الموقع). إذا تُركت الإنجليزية فارغة يظهر تنبيه في الفحص لكن النشر يستمر.</p>
+  </section>
+
+  <section id="login"><h2><span>2</span>الدخول</h2>
+    <ol>
+      <li>افتح <code>رابط-الموقع/admin</code></li>
+      <li>اضغط <b>الدخول بحساب GitHub</b>.</li>
+      <li>يجب أن يكون حسابك مضافًا كـ Collaborator على المستودع (انظر <a href="#team">إضافة محررين</a>).</li>
+    </ol>
+  </section>
+
+  <section id="doctors"><h2><span>3</span>الأطباء ومواعيدهم</h2>
+    <h3>إضافة طبيب</h3>
+    <ol>
+      <li>من القائمة اختر <b>الأطباء</b> ← <b>إضافة طبيب</b>.</li>
+      <li><b>المعرّف</b>: اسم الطبيب بحروف إنجليزية صغيرة وشرطات، مثل <code>dr-ahmed-ali</code> (يظهر في رابط صفحته).</li>
+      <li>ارفع <b>صورة الطبيب</b> (مربعة وواضحة).</li>
+      <li>اكتب <b>الاسم</b> و<b>اللقب</b> بالعربية والإنجليزية، واختر <b>القسم</b>.</li>
+      <li>أضف <b>المؤهلات</b> و<b>الخدمات التي يقدمها</b> (اختياري).</li>
+      <li>في <b>مواعيد العمل</b> اضغط «إضافة موعد» لكل يوم: اختر اليوم واكتب الوقت بنظام 24 ساعة، مثل <code>09:00</code> إلى <code>14:00</code>، أو <code>17:00</code> إلى <code>21:00</code> للفترة المسائية.</li>
+      <li>اضغط <b>نشر</b>.</li>
+    </ol>
+    <div class="tip">المواعيد تظهر تلقائيًا في صفحة الطبيب وفي خطوات الحجز (الأيام التي لا يعمل فيها تظهر غير متاحة).</div>
+    <h3>إخفاء طبيب مؤقتًا</h3>
+    <p>أوقف مفتاح <b>منشور على الموقع</b> ثم انشر — يختفي من الموقع ويبقى محفوظًا في اللوحة.</p>
+    <h3>حذف طبيب</h3>
+    <p>افتح الطبيب ← <b>حذف</b>. الحذف يمكن التراجع عنه من سجل GitHub (انظر <a href="#safety">الحماية</a>).</p>
+    <div class="warn">الأطباء الموجودون حاليًا <b>بيانات تجريبية</b>. عند إضافة الأطباء الحقيقيين احذف التجريبيين، أو عدّل بياناتهم وأوقف مفتاح «بيانات تجريبية».</div>
+  </section>
+
+  <section id="depts"><h2><span>4</span>الأقسام والخدمات</h2>
+    <ul>
+      <li><b>الأقسام الطبية</b>: الاسم، الوصف، «ماذا نقدم؟»، «لمن يناسب؟»، الأيقونة، الصورة، والخدمات المرتبطة. مفتاح <b>متاح للحجز</b> يتحكم في ظهوره بخطوات الحجز.</li>
+      <li><b>الخدمات الطبية</b>: نفس الفكرة، مع اختيار القسم المرتبط.</li>
+      <li><b>الترتيب</b>: رقم أصغر = يظهر أولًا.</li>
+      <li>الأقسام التي تظهر في الصفحة الرئيسية تُختار من: <b>الصفحات ← الصفحة الرئيسية ← الأقسام المميزة</b>.</li>
+      <li>لإضافة فئة جديدة (مثل «جراحات اليوم الواحد»): <b>الإعدادات ← فئات الأقسام والخدمات</b>.</li>
+    </ul>
+  </section>
+
+  <section id="news"><h2><span>5</span>الأخبار والمقالات</h2>
+    <ol>
+      <li><b>الأخبار والمقالات</b> ← <b>إضافة</b>.</li>
+      <li>اختر <b>النوع</b>: خبر، أو مقال توعوي (يظهر في قسم المقالات).</li>
+      <li>التاريخ، الصورة، العنوان، الملخص.</li>
+      <li><b>نص الخبر</b>: كل فقرة في عنصر مستقل.</li>
+      <li><b>المصدر</b> اختياري — إذا كان الخبر منشورًا في جريدة ضع اسمها ورابطه.</li>
+    </ol>
+    <p>تُرتب الأخبار تلقائيًا من الأحدث للأقدم.</p>
+  </section>
+
+  <section id="pages"><h2><span>6</span>الصفحات والإعدادات</h2>
+    <div class="scroll"><table>
+      <tr><th>المكان في اللوحة</th><th>ماذا تتحكم فيه</th></tr>
+      <tr><td>الصفحات ← الصفحة الرئيسية</td><td>عنوان الواجهة والوصف والصورة الرئيسية، نقاط الثقة، قسم «عن المستشفى»، الأقسام المميزة، عدد الأطباء والأخبار، «لماذا مصر المحبة؟»، دعوة الحجز.</td></tr>
+      <tr><td>الصفحات ← عن المستشفى</td><td>القصة، المحطات الزمنية، الرؤية، الرسالة، القيم.</td></tr>
+      <tr><td>الصفحات ← المرافق</td><td>بطاقات المرافق وصورها.</td></tr>
+      <tr><td>الإعدادات ← الهوية والإعلان</td><td>الاسم، الشعار، اللوجو، أيقونة المتصفح، وصف محركات البحث، <b>شريط الإعلان</b> أعلى الموقع (مثلًا: «العيادات مغلقة يوم العيد»).</td></tr>
+      <tr><td>الإعدادات ← التواصل</td><td>أرقام الهاتف (الأول هو رقم أزرار الاتصال)، واتساب، البريد، العنوان، مواعيد العمل، الخريطة، حسابات التواصل.</td></tr>
+      <tr><td>الإعدادات ← أرقام المستشفى</td><td>العدادات (الأسرّة، غرف العمليات...) ومصدرها، أو إخفاؤها.</td></tr>
+    </table></div>
+  </section>
+
+  <section id="images"><h2><span>7</span>الصور</h2>
+    <ul>
+      <li>ارفع من أي حقل صورة ← <b>اختر صورة</b> ← <b>رفع صورة</b>، أو من تبويب <b>الصور والملفات</b>.</li>
+      <li>الحد الأقصى المقترح 1MB للصورة. الموقع يضغطها ويحولها لصيغة WebP ويصغّرها تلقائيًا للموبايل.</li>
+      <li>سمِّ الصورة بالإنجليزية قبل رفعها: <code>dr-ahmed-ali.jpg</code> أفضل من <code>IMG_2031.jpg</code>.</li>
+      <li>لا تحذف صورة مستخدمة — الفحص التلقائي سيوقف النشر ويخبرك أين تُستخدم.</li>
+      <li>استخدم صورًا حقيقية للمستشفى والفريق، واحصل على موافقة من يظهر فيها.</li>
+    </ul>
+  </section>
+
+  <section id="workflow"><h2><span>8</span>المراجعة والنشر</h2>
+    <p>اللوحة مفعّل بها <b>نظام المراجعة</b>: التعديل لا يظهر على الموقع إلا بعد نشره.</p>
+    <div class="flow"><b>مسودة</b><i>←</i><b>قيد المراجعة</b><i>←</i><b>جاهز للنشر</b><i>←</i><b>نشر</b></div>
+    <ul>
+      <li>من تبويب <b>مراجعة ونشر</b> ترى كل التعديلات المعلّقة، ويمكن سحب البطاقة بين الأعمدة.</li>
+      <li>زر <b>معاينة قبل النشر</b> يفتح نسخة من الموقع بالتعديل قبل نشره (Preview Deployment من Vercel).</li>
+      <li>مناسب لو في أكثر من محرر: شخص يكتب، ومسؤول يراجع وينشر.</li>
+    </ul>
+  </section>
+
+  <section id="safety"><h2><span>9</span>الحماية والتراجع عن خطأ</h2>
+    <ul>
+      <li><b>فحص تلقائي</b> قبل كل نشر: وقت عمل غير صالح، قسم محذوف مرتبط بطبيب، صورة غير موجودة، معرّف مكرر… أي خطأ يوقف النشر ويبقى الموقع الحالي كما هو.</li>
+      <li>تجد سبب الخطأ في Vercel ← <b>Deployments</b> ← آخر عملية ← <b>Build Logs</b>، أو في GitHub ← <b>Actions</b>.</li>
+      <li><b>كل تعديل محفوظ للأبد</b> في سجل GitHub. للتراجع: GitHub ← <b>Commits</b> ← اختر التعديل ← <b>Revert</b>. أو من Vercel ← Deployments ← اختر نسخة سابقة ← <b>⋯ ← Promote</b> (أو Instant Rollback) لإرجاع الموقع فورًا.</li>
+    </ul>
+  </section>
+
+  <section id="team"><h2><span>10</span>إضافة محررين</h2>
+    <ol>
+      <li>المحرر ينشئ حسابًا مجانيًا على GitHub.</li>
+      <li>صاحب المستودع: GitHub ← المستودع ← <b>Settings ← Collaborators ← Add people</b>.</li>
+      <li>المحرر يقبل الدعوة من بريده، ثم يدخل على <code>/admin</code>.</li>
+    </ol>
+    <div class="warn">لإزالة محرر: احذفه من Collaborators وسيفقد صلاحية الدخول فورًا.</div>
+  </section>
+
+  <p style="text-align:center"><a class="btn" href="/admin/">الذهاب إلى لوحة التحكم</a></p>
+</main>
+<footer>مستشفى مصر المحبة · لوحة إدارة المحتوى</footer>
+</body>
+</html>

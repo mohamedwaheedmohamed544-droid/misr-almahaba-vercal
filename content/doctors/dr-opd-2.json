@@ -1,0 +1,36 @@
+{
+  "id": "dr-opd-2",
+  "order": 8,
+  "published": true,
+  "sample": true,
+  "photo": "",
+  "name": {
+    "ar": "اسم طبيبة العيادة",
+    "en": "Clinic doctor name"
+  },
+  "title": {
+    "ar": "طبيبة العيادات الخارجية",
+    "en": "Outpatient physician"
+  },
+  "dept": "outpatient",
+  "bio": {
+    "ar": "نبذة مختصرة عن الطبيب وخبراته — تُستبدل بالنبذة المعتمدة.",
+    "en": "A short bio about the doctor’s experience — to be replaced with the approved bio."
+  },
+  "qualifications": [],
+  "services": [
+    "laboratory"
+  ],
+  "schedule": [
+    {
+      "day": "3",
+      "from": "16:00",
+      "to": "20:00"
+    },
+    {
+      "day": "6",
+      "from": "16:00",
+      "to": "20:00"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "misr-almahaba-hospital-vercel",
+  "version": "3.0.0",
+  "private": true,
+  "description": "Bilingual (Arabic/English) website for Misr Al-Mahaba Hospital, Beni Mazar \u2013 Minya",
+  "scripts": {
+    "build": "node build.mjs",
+    "validate": "node scripts/validate.mjs",
+    "dev": "node build.mjs && npx --yes serve dist -l 5173",
+    "cms": "npx --yes decap-server"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

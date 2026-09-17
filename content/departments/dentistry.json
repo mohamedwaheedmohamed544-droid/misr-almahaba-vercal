@@ -1,0 +1,78 @@
+{
+  "slug": "dentistry",
+  "order": 8,
+  "published": true,
+  "icon": "tooth",
+  "category": "clinics",
+  "bookable": true,
+  "image": "",
+  "name": {
+    "ar": "طب الأسنان",
+    "en": "Dentistry"
+  },
+  "summary": {
+    "ar": "علاج وتجميل الأسنان: الحشوات التجميلية، علاج العصب، التقويم، الزراعة والتبييض.",
+    "en": "Dental treatment and cosmetics: fillings, root canals, braces, implants and whitening."
+  },
+  "intro": {
+    "ar": "يقدم قسم الأسنان خدمات علاجية وتجميلية متكاملة، من الكشف والتنظيف حتى الزراعة والتقويم.",
+    "en": "The dental department offers complete treatment and cosmetic care, from check-ups and cleaning to implants and braces."
+  },
+  "offers": [
+    {
+      "ar": "الحشوات التجميلية وعلاج العصب",
+      "en": "Cosmetic fillings and root canals"
+    },
+    {
+      "ar": "التيجان والقشور (الفينير)",
+      "en": "Crowns and veneers"
+    },
+    {
+      "ar": "التقويم المعدني",
+      "en": "Metal braces"
+    },
+    {
+      "ar": "زراعة الأسنان",
+      "en": "Dental implants"
+    },
+    {
+      "ar": "تبييض الأسنان",
+      "en": "Teeth whitening"
+    },
+    {
+      "ar": "تنظيف اللثة",
+      "en": "Gum cleaning"
+    },
+    {
+      "ar": "خلع الأسنان المدفونة",
+      "en": "Impacted tooth extraction"
+    },
+    {
+      "ar": "علاج آلام الفكين",
+      "en": "Jaw pain treatment"
+    }
+  ],
+  "forWhom": [
+    {
+      "ar": "الكبار والأطفال",
+      "en": "Adults and children"
+    },
+    {
+      "ar": "من يرغب في تجميل ابتسامته",
+      "en": "Anyone wanting a better smile"
+    },
+    {
+      "ar": "حالات آلام الأسنان والفكين",
+      "en": "Tooth and jaw pain"
+    }
+  ],
+  "services": [
+    "dental-cosmetic",
+    "dental-implants",
+    "orthodontics"
+  ],
+  "note": {
+    "ar": "",
+    "en": ""
+  }
+}

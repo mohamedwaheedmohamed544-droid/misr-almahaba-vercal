@@ -1,0 +1,34 @@
+{
+  "name": {
+    "ar": "مستشفى مصر المحبة",
+    "en": "Misr Al-Mahaba Hospital"
+  },
+  "shortName": {
+    "ar": "مصر المحبة",
+    "en": "Misr Al-Mahaba"
+  },
+  "slogan": {
+    "ar": "صحتكم مسئوليتنا… ورعايتكم مهمتنا",
+    "en": "Your health is our responsibility, your care is our mission"
+  },
+  "affiliation": {
+    "ar": "تابعة لأسقفية الخدمات العامة والاجتماعية بالكنيسة القبطية الأرثوذكسية",
+    "en": "Operated by the Bishopric of Public and Social Services of the Coptic Orthodox Church"
+  },
+  "logo": "/uploads/logo-256.webp",
+  "favicon": "/uploads/logo-96.webp",
+  "siteUrl": "",
+  "seoDescription": {
+    "ar": "مستشفى مصر المحبة ببني مزار – المنيا: طوارئ، عناية مركزة، عمليات، غسيل كلوي، عيادات خارجية، أشعة ومختبر.",
+    "en": "Misr Al-Mahaba Hospital, Beni Mazar – Minya: emergency, ICU, surgery, dialysis, outpatient clinics, imaging and laboratory."
+  },
+  "announcement": {
+    "enabled": false,
+    "style": "info",
+    "text": {
+      "ar": "",
+      "en": ""
+    },
+    "link": ""
+  }
+}

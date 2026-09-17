@@ -1,0 +1,42 @@
+{
+  "slug": "blood-bank",
+  "order": 3,
+  "published": true,
+  "icon": "drop",
+  "category": "support",
+  "dept": "surgery",
+  "bookable": false,
+  "image": "",
+  "name": {
+    "ar": "بنك الدم",
+    "en": "Blood Bank"
+  },
+  "summary": {
+    "ar": "بنك دم داخلي يدعم العمليات الجراحية والعناية المركزة والحالات العاجلة.",
+    "en": "An in-house blood bank supporting surgery, intensive care and emergencies."
+  },
+  "offers": [
+    {
+      "ar": "توفير الدم ومشتقاته للمرضى",
+      "en": "Blood and blood products for patients"
+    },
+    {
+      "ar": "دعم العمليات والطوارئ",
+      "en": "Support for surgery and emergencies"
+    }
+  ],
+  "forWhom": [
+    {
+      "ar": "مرضى العمليات والعناية المركزة",
+      "en": "Surgical and ICU patients"
+    },
+    {
+      "ar": "المتبرعون بالدم",
+      "en": "Blood donors"
+    }
+  ],
+  "note": {
+    "ar": "",
+    "en": ""
+  }
+}

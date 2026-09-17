@@ -1,0 +1,46 @@
+{
+  "slug": "sports-rehab",
+  "order": 6,
+  "published": true,
+  "icon": "motion",
+  "category": "treatment",
+  "dept": "physiotherapy",
+  "bookable": true,
+  "image": "",
+  "name": {
+    "ar": "تأهيل إصابات الملاعب",
+    "en": "Sports Injury Rehab"
+  },
+  "summary": {
+    "ar": "برامج علاج طبيعي لاستعادة الحركة والقوة بعد الإصابات الرياضية.",
+    "en": "Physiotherapy programs to restore movement and strength after sports injuries."
+  },
+  "offers": [
+    {
+      "ar": "تقييم الإصابة",
+      "en": "Injury assessment"
+    },
+    {
+      "ar": "برنامج تأهيلي تدريجي",
+      "en": "Progressive rehab plan"
+    },
+    {
+      "ar": "تأهيل إصابات الأربطة",
+      "en": "Ligament injury rehab"
+    }
+  ],
+  "forWhom": [
+    {
+      "ar": "الرياضيون",
+      "en": "Athletes"
+    },
+    {
+      "ar": "المصابون بالتواءات وإصابات أربطة",
+      "en": "People with sprains and ligament injuries"
+    }
+  ],
+  "note": {
+    "ar": "",
+    "en": ""
+  }
+}

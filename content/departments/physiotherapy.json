@@ -1,0 +1,62 @@
+{
+  "slug": "physiotherapy",
+  "order": 7,
+  "published": true,
+  "icon": "motion",
+  "category": "clinics",
+  "bookable": true,
+  "image": "",
+  "name": {
+    "ar": "العلاج الطبيعي والتأهيل",
+    "en": "Physiotherapy & Rehabilitation"
+  },
+  "summary": {
+    "ar": "برامج تأهيل لإصابات الملاعب وآلام الظهر والأربطة، والتأهيل بعد الجلطات.",
+    "en": "Rehab programs for sports injuries, back pain, ligament injuries and post-stroke recovery."
+  },
+  "intro": {
+    "ar": "يقدم قسم العلاج الطبيعي برامج تأهيلية تهدف إلى استعادة الحركة وتخفيف الألم وتحسين جودة الحياة، بإشراف أخصائيين في العلاج الطبيعي.",
+    "en": "The physiotherapy department offers rehabilitation programs that restore movement, relieve pain and improve quality of life, supervised by physiotherapists."
+  },
+  "offers": [
+    {
+      "ar": "تأهيل إصابات الملاعب",
+      "en": "Sports injury rehab"
+    },
+    {
+      "ar": "التأهيل بعد الجلطات",
+      "en": "Post-stroke rehab"
+    },
+    {
+      "ar": "علاج آلام الظهر",
+      "en": "Back pain treatment"
+    },
+    {
+      "ar": "تأهيل إصابات الأربطة",
+      "en": "Ligament injury rehab"
+    }
+  ],
+  "forWhom": [
+    {
+      "ar": "الرياضيون والمصابون",
+      "en": "Athletes and injured patients"
+    },
+    {
+      "ar": "مرضى ما بعد الجلطات",
+      "en": "Stroke survivors"
+    },
+    {
+      "ar": "من يعانون آلام الظهر والمفاصل",
+      "en": "People with back and joint pain"
+    }
+  ],
+  "services": [
+    "sports-rehab",
+    "stroke-rehab",
+    "back-pain"
+  ],
+  "note": {
+    "ar": "",
+    "en": ""
+  }
+}

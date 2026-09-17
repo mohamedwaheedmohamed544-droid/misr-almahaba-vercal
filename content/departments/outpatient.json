@@ -1,0 +1,50 @@
+{
+  "slug": "outpatient",
+  "order": 6,
+  "published": true,
+  "icon": "stethoscope",
+  "category": "clinics",
+  "bookable": true,
+  "image": "",
+  "name": {
+    "ar": "العيادات الخارجية",
+    "en": "Outpatient Clinics"
+  },
+  "summary": {
+    "ar": "عيادات تخصصية متعددة تستقبل نحو 600 مريض يوميًا للكشف والمتابعة دون إقامة.",
+    "en": "Specialty clinics seeing around 600 patients a day for consultations and follow-up."
+  },
+  "intro": {
+    "ar": "تضم المستشفى مجموعة من العيادات الخارجية التي تغطي تخصصات متعددة للكشف والاستشارة والمتابعة الدورية.",
+    "en": "The hospital’s outpatient clinics cover multiple specialties for consultations and routine follow-up."
+  },
+  "offers": [
+    {
+      "ar": "الكشف والاستشارة التخصصية",
+      "en": "Specialist consultations"
+    },
+    {
+      "ar": "المتابعة الدورية",
+      "en": "Routine follow-up"
+    },
+    {
+      "ar": "التحويل للفحوصات والأشعة",
+      "en": "Referral for tests and imaging"
+    }
+  ],
+  "forWhom": [
+    {
+      "ar": "المرضى الذين يحتاجون كشفًا أو متابعة دون إقامة",
+      "en": "Patients who need a visit without admission"
+    }
+  ],
+  "services": [
+    "laboratory",
+    "radiology",
+    "uhi"
+  ],
+  "note": {
+    "ar": "",
+    "en": ""
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "emergency",
+  "order": 1,
+  "published": true,
+  "icon": "pulse",
+  "category": "acute",
+  "bookable": false,
+  "image": "",
+  "name": {
+    "ar": "الطوارئ والاستقبال",
+    "en": "Emergency & Reception"
+  },
+  "summary": {
+    "ar": "استقبال الحالات العاجلة وتقييمها وتوجيهها للتخصص المناسب، مع وحدة للإنعاش القلبي الرئوي.",
+    "en": "Receives, assesses and routes urgent cases, with a dedicated cardiopulmonary resuscitation unit."
+  },
+  "intro": {
+    "ar": "قسم الطوارئ هو نقطة الاستقبال الأولى للحالات العاجلة. يضم أسرّة كشف مخصصة لفرز الحالات وتقييمها سريعًا، ووحدة للإنعاش القلبي الرئوي، ويرتبط مباشرة بالأشعة والمختبر والعناية المركزة وغرف العمليات.",
+    "en": "The emergency department is the first point of contact for urgent cases. It has dedicated examination beds for rapid triage, a cardiopulmonary resuscitation unit, and direct links to radiology, the laboratory, intensive care and the operating rooms."
+  },
+  "offers": [
+    {
+      "ar": "فرز الحالات وتقييمها الفوري",
+      "en": "Immediate triage and assessment"
+    },
+    {
+      "ar": "وحدة الإنعاش القلبي الرئوي",
+      "en": "CPR unit"
+    },
+    {
+      "ar": "تحويل داخلي سريع للأشعة والمختبر",
+      "en": "Fast internal referral to radiology and lab"
+    },
+    {
+      "ar": "التنسيق مع العناية المركزة والعمليات",
+      "en": "Coordination with ICU and surgery"
+    }
+  ],
+  "forWhom": [
+    {
+      "ar": "الإصابات والحوادث",
+      "en": "Injuries and accidents"
+    },
+    {
+      "ar": "الأعراض الحادة المفاجئة",
+      "en": "Sudden acute symptoms"
+    },
+    {
+      "ar": "الحالات التي تحتاج تقييمًا طبيًا عاجلًا",
+      "en": "Anyone needing urgent medical assessment"
+    }
+  ],
+  "services": [
+    "cpr-unit",
+    "laboratory",
+    "radiology"
+  ],
+  "note": {
+    "ar": "",
+    "en": ""
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "id": "building",
+      "icon": "hospital",
+      "image": "/uploads/building-wing.webp",
+      "title": {
+        "ar": "مبنى من سبعة طوابق",
+        "en": "A seven-storey building"
+      },
+      "text": {
+        "ar": "مبنى حديث على الطريق الزراعي مصر–أسوان يضم الأقسام الداخلية والعيادات والعمليات، مع أنظمة غازات طبية مركزية ومولدات ونظام إطفاء حريق آلي.",
+        "en": "A modern building on the Cairo–Aswan road housing wards, clinics and surgery, with central medical gases, generators and automatic fire suppression."
+      },
+      "link": "/about"
+    },
+    {
+      "id": "capsule",
+      "icon": "scalpel",
+      "image": "",
+      "title": {
+        "ar": "غرفة عمليات «الكبسولة»",
+        "en": "The “Capsule” operating room"
+      },
+      "text": {
+        "ar": "غرفة عمليات مخصصة للجراحات الدقيقة، مصممة لتوفير بيئة معقمة عالية التحكم.",
+        "en": "An operating room for delicate procedures, designed as a highly controlled sterile environment."
+      },
+      "link": "/services/capsule-or"
+    },
+    {
+      "id": "mri",
+      "icon": "scan",
+      "image": "",
+      "title": {
+        "ar": "الأشعة والرنين المغناطيسي",
+        "en": "Radiology & MRI"
+      },
+      "text": {
+        "ar": "وحدة أشعة متكاملة تشمل جهاز رنين مغناطيسي، تخدم الطوارئ والعيادات والأقسام الداخلية.",
+        "en": "A full imaging unit with MRI serving emergency, clinics and inpatient wards."
+      },
+      "link": "/services/radiology"
+    },
+    {
+      "id": "dialysis",
+      "icon": "drop",
+      "image": "",
+      "title": {
+        "ar": "وحدة الغسيل الكلوي",
+        "en": "Dialysis unit"
+      },
+      "text": {
+        "ar": "وحدة مجهزة بـ 11 جهاز غسيل كلوي، مع قسم منفصل لمرضى فيروس سي التزامًا بمعايير مكافحة العدوى.",
+        "en": "Equipped with 11 dialysis machines and a separate hepatitis C section, following infection-control standards."
+      },
+      "link": "/departments/dialysis"
+    },
+    {
+      "id": "lab-blood",
+      "icon": "flask",
+      "image": "",
+      "title": {
+        "ar": "المختبر وبنك الدم",
+        "en": "Laboratory & blood bank"
+      },
+      "text": {
+        "ar": "مختبر بأجهزة حديثة وبنك دم داخلي يدعمان العمليات والعناية المركزة والطوارئ.",
+        "en": "A modern laboratory and in-house blood bank supporting surgery, intensive care and emergency."
+      },
+      "link": "/services/laboratory"
+    },
+    {
+      "id": "digital",
+      "icon": "tablet",
+      "image": "/uploads/building-entrance.webp",
+      "title": {
+        "ar": "نظام حجز وروشتات رقمي",
+        "en": "Digital booking & prescriptions"
+      },
+      "text": {
+        "ar": "اعتمدت المستشفى منذ افتتاحها نظامًا رقميًا للحجز والروشتات يقلل الاعتماد على الورق.",
+        "en": "Since opening, the hospital has used a digital system for bookings and prescriptions that cuts paperwork."
+      },
+      "link": "/booking"
+    }
+  ]
+}

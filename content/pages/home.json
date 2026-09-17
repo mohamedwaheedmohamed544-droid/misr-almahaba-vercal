@@ -1,0 +1,200 @@
+{
+  "hero": {
+    "eyebrow": {
+      "ar": "",
+      "en": ""
+    },
+    "line1": {
+      "ar": "صحتكم مسئوليتنا…",
+      "en": "Your health, our responsibility."
+    },
+    "line2": {
+      "ar": "ورعايتكم",
+      "en": "Your care, our"
+    },
+    "highlight": {
+      "ar": "مهمتنا",
+      "en": "mission."
+    },
+    "lead": {
+      "ar": "مستشفى متكامل يخدم أهالي شمال المنيا: طوارئ وعناية مركزة، عمليات وغسيل كلوي، عيادات خارجية وتأهيل، مع أشعة ومختبر تحت سقف واحد.",
+      "en": "A full-service hospital for northern Minya: emergency and intensive care, surgery and dialysis, outpatient clinics and rehab — with imaging and lab under one roof."
+    },
+    "image": "/uploads/building-hero.webp",
+    "badgeTitle": {
+      "ar": "أول منشأة بالمنيا",
+      "en": "First in Minya"
+    },
+    "badgeText": {
+      "ar": "تحصل على الاعتماد النهائي من الهيئة العامة للاعتماد والرقابة الصحية",
+      "en": "to earn final accreditation from Egypt’s healthcare accreditation authority"
+    },
+    "trust": [
+      {
+        "ar": "معتمدة نهائيًا من GAHAR",
+        "en": "Fully GAHAR-accredited"
+      },
+      {
+        "ar": "ضمن التأمين الصحي الشامل",
+        "en": "Universal Health Insurance partner"
+      }
+    ]
+  },
+  "about": {
+    "title": {
+      "ar": "صرح طبي قريب من الناس، ومبني على خدمتهم",
+      "en": "A hospital close to its community, built to serve it"
+    },
+    "image": "/uploads/building-entrance.webp",
+    "text": {
+      "ar": "تابعة لأسقفية الخدمات العامة والاجتماعية بالكنيسة القبطية الأرثوذكسية، افتُتحت عام 2019 لتقدم رعاية متكاملة لأهالي بني مزار والمراكز المحيطة.",
+      "en": "Operated by the Bishopric of Public and Social Services of the Coptic Orthodox Church. Opened in 2019 to provide complete care for Beni Mazar and surrounding districts."
+    },
+    "pillars": [
+      {
+        "q": {
+          "ar": "من نحن؟",
+          "en": "Who we are"
+        },
+        "title": {
+          "ar": "مستشفى عام متعدد التخصصات",
+          "en": "A multi-specialty general hospital"
+        },
+        "text": {
+          "ar": "مبنى من سبعة طوابق على الطريق الزراعي مصر–أسوان.",
+          "en": "A seven-storey building on the Cairo–Aswan road."
+        }
+      },
+      {
+        "q": {
+          "ar": "ماذا نقدم؟",
+          "en": "What we offer"
+        },
+        "title": {
+          "ar": "رعاية عاجلة، جراحية، مزمنة وتأهيلية",
+          "en": "Urgent, surgical, chronic and rehab care"
+        },
+        "text": {
+          "ar": "من الطوارئ والعناية المركزة إلى الغسيل الكلوي والعيادات والعلاج الطبيعي.",
+          "en": "From emergency and ICU to dialysis, clinics and physiotherapy."
+        }
+      },
+      {
+        "q": {
+          "ar": "ما الذي يميزنا؟",
+          "en": "What sets us apart"
+        },
+        "title": {
+          "ar": "جودة معتمدة وتجربة أبسط",
+          "en": "Accredited quality, simpler experience"
+        },
+        "text": {
+          "ar": "اعتماد GAHAR النهائي، ونظام رقمي للحجز والروشتات.",
+          "en": "Final GAHAR accreditation and digital booking and prescriptions."
+        }
+      }
+    ]
+  },
+  "featuredDepartments": [
+    "emergency",
+    "icu",
+    "surgery",
+    "dialysis",
+    "physiotherapy",
+    "dentistry"
+  ],
+  "doctorsCount": 4,
+  "newsCount": 3,
+  "why": [
+    {
+      "icon": "badge",
+      "feature": true,
+      "chip": {
+        "ar": "مايو 2026",
+        "en": "May 2026"
+      },
+      "title": {
+        "ar": "اعتماد GAHAR النهائي",
+        "en": "Final GAHAR accreditation"
+      },
+      "text": {
+        "ar": "أول منشأة صحية في محافظة المنيا تحصل على الاعتماد النهائي من الهيئة العامة للاعتماد والرقابة الصحية، وهو اعتماد يقيس جودة الرعاية وسلامة المرضى.",
+        "en": "The first healthcare facility in Minya to earn final accreditation from Egypt’s General Authority for Healthcare Accreditation and Regulation — a standard that measures quality of care and patient safety."
+      }
+    },
+    {
+      "icon": "shield",
+      "feature": false,
+      "chip": {
+        "ar": "",
+        "en": ""
+      },
+      "title": {
+        "ar": "ضمن التأمين الصحي الشامل",
+        "en": "Part of Universal Health Insurance"
+      },
+      "text": {
+        "ar": "المستشفى منضمة لمنظومة التأمين الصحي الشامل في المنيا.",
+        "en": "The hospital has joined the Universal Health Insurance system in Minya."
+      }
+    },
+    {
+      "icon": "grid",
+      "feature": false,
+      "chip": {
+        "ar": "",
+        "en": ""
+      },
+      "title": {
+        "ar": "أقسام متكاملة تحت سقف واحد",
+        "en": "Integrated care under one roof"
+      },
+      "text": {
+        "ar": "طوارئ، عناية مركزة، عمليات، غسيل كلوي، حضانات، عيادات، أشعة ومختبر.",
+        "en": "Emergency, ICU, surgery, dialysis, incubators, clinics, imaging and lab."
+      }
+    },
+    {
+      "icon": "pin",
+      "feature": false,
+      "chip": {
+        "ar": "",
+        "en": ""
+      },
+      "title": {
+        "ar": "سهولة الوصول",
+        "en": "Easy to reach"
+      },
+      "text": {
+        "ar": "على الطريق الزراعي مصر–أسوان عند المدخل الجنوبي لبني مزار.",
+        "en": "On the Cairo–Aswan road at the southern entrance of Beni Mazar."
+      }
+    },
+    {
+      "icon": "tablet",
+      "feature": false,
+      "chip": {
+        "ar": "",
+        "en": ""
+      },
+      "title": {
+        "ar": "تجربة رقمية أبسط",
+        "en": "A simpler digital experience"
+      },
+      "text": {
+        "ar": "حجز وروشتات رقمية تقلل الانتظار والأوراق.",
+        "en": "Digital booking and prescriptions mean less waiting and paperwork."
+      }
+    }
+  ],
+  "cta": {
+    "title": {
+      "ar": "ابدأ خطوتك الأولى نحو رعاية صحية أفضل",
+      "en": "Take your first step towards better care"
+    },
+    "text": {
+      "ar": "اختر التخصص والطبيب والموعد المناسب، ثم اتصل بنا مباشرة لتأكيد حجزك.",
+      "en": "Choose a specialty, doctor and preferred time — then call us directly to confirm your booking."
+    }
+  }
+}

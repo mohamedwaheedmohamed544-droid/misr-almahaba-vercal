@@ -1,0 +1,52 @@
+{
+  "slug": "dialysis",
+  "order": 3,
+  "published": true,
+  "icon": "drop",
+  "category": "chronic",
+  "bookable": true,
+  "image": "",
+  "name": {
+    "ar": "الغسيل الكلوي",
+    "en": "Dialysis"
+  },
+  "summary": {
+    "ar": "وحدة غسيل كلوي مجهزة، مع قسم منفصل لمرضى فيروس سي حفاظًا على سلامة المرضى.",
+    "en": "An equipped dialysis unit with a separate section for hepatitis C patients to protect patient safety."
+  },
+  "intro": {
+    "ar": "وحدة الغسيل الكلوي مخصصة لمرضى الفشل الكلوي الذين يحتاجون جلسات منتظمة، وتضم قسمًا منفصلًا لمرضى فيروس سي وفق معايير مكافحة العدوى.",
+    "en": "The dialysis unit serves kidney-failure patients who need regular sessions, with a separate section for hepatitis C patients in line with infection-control standards."
+  },
+  "offers": [
+    {
+      "ar": "جلسات الغسيل الكلوي الدورية",
+      "en": "Regular dialysis sessions"
+    },
+    {
+      "ar": "قسم منفصل لمرضى فيروس سي",
+      "en": "Separate hepatitis C section"
+    },
+    {
+      "ar": "متابعة التحاليل الدورية لمرضى الغسيل",
+      "en": "Routine lab follow-up for dialysis patients"
+    }
+  ],
+  "forWhom": [
+    {
+      "ar": "مرضى الفشل الكلوي المزمن",
+      "en": "Patients with chronic kidney failure"
+    },
+    {
+      "ar": "المرضى المحوّلون لبدء جلسات الغسيل",
+      "en": "Patients referred to start dialysis"
+    }
+  ],
+  "services": [
+    "laboratory"
+  ],
+  "note": {
+    "ar": "",
+    "en": ""
+  }
+}

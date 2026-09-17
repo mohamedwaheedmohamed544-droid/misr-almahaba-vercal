@@ -1,0 +1,58 @@
+{
+  "slug": "surgery",
+  "order": 4,
+  "published": true,
+  "icon": "scalpel",
+  "category": "acute",
+  "bookable": true,
+  "image": "",
+  "name": {
+    "ar": "العمليات الجراحية",
+    "en": "Surgery"
+  },
+  "summary": {
+    "ar": "غرف عمليات مجهزة، من بينها غرفة «الكبسولة» المخصصة للجراحات الدقيقة.",
+    "en": "Equipped operating rooms, including the “Capsule” suite for delicate procedures."
+  },
+  "intro": {
+    "ar": "يضم مجمع العمليات غرفًا مجهزة للتدخلات الجراحية المختلفة، ومنها غرفة العمليات «الكبسولة» المصممة للجراحات الدقيقة التي تتطلب أعلى درجات التعقيم.",
+    "en": "The surgical suite has operating rooms equipped for a range of procedures, including the “Capsule” room designed for delicate operations that demand the highest sterility."
+  },
+  "offers": [
+    {
+      "ar": "غرف عمليات مجهزة",
+      "en": "Equipped operating rooms"
+    },
+    {
+      "ar": "غرفة «الكبسولة» للجراحات الدقيقة",
+      "en": "The “Capsule” suite for delicate surgery"
+    },
+    {
+      "ar": "رعاية ما قبل العملية وبعدها",
+      "en": "Pre- and post-operative care"
+    },
+    {
+      "ar": "ارتباط مباشر بالعناية المركزة وبنك الدم",
+      "en": "Direct link to ICU and blood bank"
+    }
+  ],
+  "forWhom": [
+    {
+      "ar": "المرضى المحوّلون لتدخل جراحي",
+      "en": "Patients referred for surgery"
+    },
+    {
+      "ar": "الجراحات المجدولة والطارئة",
+      "en": "Scheduled and emergency operations"
+    }
+  ],
+  "services": [
+    "capsule-or",
+    "blood-bank",
+    "laboratory"
+  ],
+  "note": {
+    "ar": "",
+    "en": ""
+  }
+}

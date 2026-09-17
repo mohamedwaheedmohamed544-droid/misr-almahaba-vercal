@@ -1,0 +1,68 @@
+{
+  "address": {
+    "line": {
+      "ar": "الطريق الزراعي مصر – أسوان، المدخل الجنوبي لمدينة بني مزار",
+      "en": "Cairo–Aswan Agricultural Road, southern entrance of Beni Mazar"
+    },
+    "city": {
+      "ar": "بني مزار",
+      "en": "Beni Mazar"
+    },
+    "governorate": {
+      "ar": "محافظة المنيا",
+      "en": "Minya Governorate"
+    },
+    "country": {
+      "ar": "مصر",
+      "en": "Egypt"
+    }
+  },
+  "phones": [
+    {
+      "label": {
+        "ar": "الرقم الرئيسي",
+        "en": "Main line"
+      },
+      "number": "+20863840801",
+      "display": "086 384 0801"
+    },
+    {
+      "label": {
+        "ar": "خط إضافي",
+        "en": "Additional line"
+      },
+      "number": "+20863840803",
+      "display": "086 384 0803"
+    },
+    {
+      "label": {
+        "ar": "خط إضافي",
+        "en": "Additional line"
+      },
+      "number": "+20863840804",
+      "display": "086 384 0804"
+    }
+  ],
+  "whatsapp": "",
+  "email": "",
+  "hours": {
+    "emergency": {
+      "ar": "",
+      "en": ""
+    },
+    "clinics": {
+      "ar": "",
+      "en": ""
+    }
+  },
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Misr+Al+Mahaba+Hospital+Beni+Mazar+Minya",
+  "mapImage": "/uploads/building-full.webp",
+  "social": {
+    "facebook": "https://www.facebook.com/MisrAlmahaba",
+    "messenger": "https://m.me/MisrAlmahaba",
+    "instagram": "",
+    "youtube": "",
+    "tiktok": "",
+    "x": ""
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "cpr-unit",
+  "order": 4,
+  "published": true,
+  "icon": "pulse",
+  "category": "support",
+  "dept": "emergency",
+  "bookable": false,
+  "image": "",
+  "name": {
+    "ar": "وحدة الإنعاش القلبي الرئوي",
+    "en": "CPR Unit"
+  },
+  "summary": {
+    "ar": "وحدة مخصصة للتدخل السريع في حالات توقف القلب والتنفس داخل قسم الطوارئ.",
+    "en": "A dedicated unit inside emergency for rapid response to cardiac and respiratory arrest."
+  },
+  "offers": [
+    {
+      "ar": "الإنعاش القلبي الرئوي",
+      "en": "Cardiopulmonary resuscitation"
+    },
+    {
+      "ar": "الاستقرار الأولي قبل التحويل للعناية المركزة",
+      "en": "Initial stabilization before ICU transfer"
+    }
+  ],
+  "forWhom": [
+    {
+      "ar": "الحالات الحرجة الواردة إلى الطوارئ",
+      "en": "Critical cases arriving at emergency"
+    }
+  ],
+  "note": {
+    "ar": "",
+    "en": ""
+  }
+}

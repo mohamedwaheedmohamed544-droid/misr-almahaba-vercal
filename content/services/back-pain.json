@@ -1,0 +1,42 @@
+{
+  "slug": "back-pain",
+  "order": 8,
+  "published": true,
+  "icon": "spine",
+  "category": "treatment",
+  "dept": "physiotherapy",
+  "bookable": true,
+  "image": "",
+  "name": {
+    "ar": "علاج آلام الظهر",
+    "en": "Back Pain Treatment"
+  },
+  "summary": {
+    "ar": "برامج علاج طبيعي لتخفيف آلام الظهر وتحسين المرونة والوضعية.",
+    "en": "Physiotherapy to relieve back pain and improve flexibility and posture."
+  },
+  "offers": [
+    {
+      "ar": "تقييم سبب الألم",
+      "en": "Assessing the cause of pain"
+    },
+    {
+      "ar": "جلسات علاج طبيعي",
+      "en": "Physiotherapy sessions"
+    },
+    {
+      "ar": "تمارين منزلية موجهة",
+      "en": "Guided home exercises"
+    }
+  ],
+  "forWhom": [
+    {
+      "ar": "من يعانون آلام الظهر المزمنة أو الحادة",
+      "en": "People with chronic or acute back pain"
+    }
+  ],
+  "note": {
+    "ar": "",
+    "en": ""
+  }
+}

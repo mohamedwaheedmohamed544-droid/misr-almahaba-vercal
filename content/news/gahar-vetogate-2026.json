@@ -1,0 +1,33 @@
+{
+  "slug": "gahar-vetogate-2026",
+  "published": true,
+  "type": "news",
+  "date": "2026-05-13",
+  "dateLabel": "",
+  "image": "/uploads/building-wing.webp",
+  "title": {
+    "ar": "«مصر المحبة» تحصل على اعتماد GAHAR وتخفف الضغط على المستشفيات الحكومية",
+    "en": "Misr Al-Mahaba earns GAHAR accreditation, easing pressure on public hospitals"
+  },
+  "excerpt": {
+    "ar": "تقرير يستعرض تجهيزات المستشفى ودورها في دعم الخدمات الصحية بالمنيا.",
+    "en": "A report on the hospital’s facilities and its role in supporting healthcare in Minya."
+  },
+  "body": [
+    {
+      "ar": "تناول التقرير حصول مستشفى مصر المحبة ببني مزار على اعتماد الهيئة العامة للاعتماد والرقابة الصحية، باعتباره خطوة مهمة لتطوير الخدمات الصحية بالمحافظة.",
+      "en": "The report covers Misr Al-Mahaba Hospital in Beni Mazar receiving GAHAR accreditation as an important step for healthcare services in the governorate."
+    },
+    {
+      "ar": "وأشار التقرير إلى تجهيزات المستشفى من غرف عمليات ووحدة غسيل كلوي وحضانات وجهاز رنين مغناطيسي ونظام إطفاء آلي، وإلى دورها في تخفيف الضغط على المستشفيات الحكومية.",
+      "en": "It highlights the hospital’s operating rooms, dialysis unit, incubators, MRI and automatic fire suppression, and its role in reducing pressure on public hospitals."
+    }
+  ],
+  "source": {
+    "name": {
+      "ar": "فيتو",
+      "en": "Vetogate"
+    },
+    "url": "https://www.vetogate.com/5654757"
+  }
+}

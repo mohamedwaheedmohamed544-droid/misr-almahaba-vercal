@@ -1,0 +1,48 @@
+{
+  "departments": [
+    {
+      "id": "acute",
+      "label": {
+        "ar": "رعاية عاجلة وحرجة",
+        "en": "Urgent & critical"
+      }
+    },
+    {
+      "id": "clinics",
+      "label": {
+        "ar": "عيادات وتأهيل",
+        "en": "Clinics & rehab"
+      }
+    },
+    {
+      "id": "chronic",
+      "label": {
+        "ar": "رعاية مزمنة",
+        "en": "Chronic care"
+      }
+    }
+  ],
+  "services": [
+    {
+      "id": "diagnostics",
+      "label": {
+        "ar": "التشخيص",
+        "en": "Diagnostics"
+      }
+    },
+    {
+      "id": "treatment",
+      "label": {
+        "ar": "العلاج والتأهيل",
+        "en": "Treatment & rehab"
+      }
+    },
+    {
+      "id": "support",
+      "label": {
+        "ar": "خدمات مساندة",
+        "en": "Support services"
+      }
+    }
+  ]
+}

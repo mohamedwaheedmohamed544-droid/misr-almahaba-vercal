@@ -1,0 +1,42 @@
+{
+  "slug": "dental-implants",
+  "order": 10,
+  "published": true,
+  "icon": "tooth",
+  "category": "treatment",
+  "dept": "dentistry",
+  "bookable": true,
+  "image": "",
+  "name": {
+    "ar": "زراعة الأسنان",
+    "en": "Dental Implants"
+  },
+  "summary": {
+    "ar": "تعويض الأسنان المفقودة بالزراعة بعد تقييم طبي شامل.",
+    "en": "Replacing missing teeth with implants after a full assessment."
+  },
+  "offers": [
+    {
+      "ar": "الكشف والتقييم",
+      "en": "Examination and assessment"
+    },
+    {
+      "ar": "خطة علاج مخصصة",
+      "en": "Personalized treatment plan"
+    },
+    {
+      "ar": "المتابعة بعد الزراعة",
+      "en": "Post-implant follow-up"
+    }
+  ],
+  "forWhom": [
+    {
+      "ar": "من فقدوا سنًا أو أكثر",
+      "en": "Anyone missing one or more teeth"
+    }
+  ],
+  "note": {
+    "ar": "",
+    "en": ""
+  }
+}

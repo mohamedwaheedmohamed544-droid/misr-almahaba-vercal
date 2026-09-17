@@ -1,0 +1,50 @@
+{
+  "slug": "laboratory",
+  "order": 1,
+  "published": true,
+  "icon": "flask",
+  "category": "diagnostics",
+  "dept": "",
+  "bookable": true,
+  "image": "",
+  "name": {
+    "ar": "التحاليل الطبية",
+    "en": "Laboratory"
+  },
+  "summary": {
+    "ar": "مختبر مجهز بأجهزة حديثة لإجراء التحاليل الطبية لمرضى الأقسام والعيادات.",
+    "en": "A modern laboratory running tests for inpatients and clinic patients."
+  },
+  "offers": [
+    {
+      "ar": "تحاليل الدم والكيمياء الحيوية",
+      "en": "Blood and biochemistry tests"
+    },
+    {
+      "ar": "تحاليل المتابعة الدورية للأمراض المزمنة",
+      "en": "Routine monitoring for chronic conditions"
+    },
+    {
+      "ar": "دعم الطوارئ والعناية والغسيل الكلوي",
+      "en": "Support for emergency, ICU and dialysis"
+    }
+  ],
+  "forWhom": [
+    {
+      "ar": "مرضى العيادات الخارجية",
+      "en": "Outpatients"
+    },
+    {
+      "ar": "المرضى المقيمون",
+      "en": "Inpatients"
+    },
+    {
+      "ar": "المحوّلون من أطباء خارج المستشفى",
+      "en": "Patients referred by outside doctors"
+    }
+  ],
+  "note": {
+    "ar": "",
+    "en": ""
+  }
+}

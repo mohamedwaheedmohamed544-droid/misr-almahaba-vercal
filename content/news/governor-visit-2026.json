@@ -1,0 +1,33 @@
+{
+  "slug": "governor-visit-2026",
+  "published": true,
+  "type": "news",
+  "date": "2026-05-13",
+  "dateLabel": "",
+  "image": "/uploads/building-entrance.webp",
+  "title": {
+    "ar": "محافظ المنيا يتفقد مستشفى «مصر المحبة» ويتابع جاهزية الأقسام",
+    "en": "Minya governor tours Misr Al-Mahaba and reviews department readiness"
+  },
+  "excerpt": {
+    "ar": "جولة تفقدية للتأكد من جاهزية المنشآت المنضمة حديثًا لمنظومة التأمين الصحي الشامل.",
+    "en": "An inspection tour to check the readiness of facilities newly added to Universal Health Insurance."
+  },
+  "body": [
+    {
+      "ar": "أجرى محافظ المنيا جولة تفقدية بمستشفى مصر المحبة ببني مزار ضمن متابعة جاهزية المنشآت الطبية المنضمة حديثًا لمنظومة التأمين الصحي الشامل.",
+      "en": "Minya’s governor toured Misr Al-Mahaba Hospital in Beni Mazar as part of reviewing the readiness of medical facilities newly added to Universal Health Insurance."
+    },
+    {
+      "ar": "وشملت الجولة الاطلاع على الأقسام والعيادات والتجهيزات، والاحتفاء بحصول المستشفى على الاعتماد النهائي لمعايير جودة الرعاية الصحية.",
+      "en": "The tour covered departments, clinics and equipment, and marked the hospital’s final accreditation against national healthcare quality standards."
+    }
+  ],
+  "source": {
+    "name": {
+      "ar": "الدستور",
+      "en": "Al-Dostor"
+    },
+    "url": "https://www.dostor.org/5553530"
+  }
+}

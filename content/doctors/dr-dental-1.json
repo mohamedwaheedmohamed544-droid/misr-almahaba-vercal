@@ -1,0 +1,42 @@
+{
+  "id": "dr-dental-1",
+  "order": 1,
+  "published": true,
+  "sample": true,
+  "photo": "",
+  "name": {
+    "ar": "اسم طبيب الأسنان",
+    "en": "Dentist name"
+  },
+  "title": {
+    "ar": "أخصائي طب الأسنان",
+    "en": "Dental specialist"
+  },
+  "dept": "dentistry",
+  "bio": {
+    "ar": "نبذة مختصرة عن الطبيب وخبراته — تُستبدل بالنبذة المعتمدة.",
+    "en": "A short bio about the doctor’s experience — to be replaced with the approved bio."
+  },
+  "qualifications": [],
+  "services": [
+    "dental-cosmetic",
+    "orthodontics"
+  ],
+  "schedule": [
+    {
+      "day": "0",
+      "from": "10:00",
+      "to": "14:00"
+    },
+    {
+      "day": "2",
+      "from": "16:00",
+      "to": "20:00"
+    },
+    {
+      "day": "4",
+      "from": "10:00",
+      "to": "14:00"
+    }
+  ]
+}

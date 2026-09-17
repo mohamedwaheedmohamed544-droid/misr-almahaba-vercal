@@ -1,0 +1,36 @@
+{
+  "id": "dr-dialysis-1",
+  "order": 5,
+  "published": true,
+  "sample": true,
+  "photo": "",
+  "name": {
+    "ar": "اسم طبيب الكلى",
+    "en": "Nephrologist name"
+  },
+  "title": {
+    "ar": "استشاري الكلى والغسيل الكلوي",
+    "en": "Consultant nephrologist"
+  },
+  "dept": "dialysis",
+  "bio": {
+    "ar": "نبذة مختصرة عن الطبيب وخبراته — تُستبدل بالنبذة المعتمدة.",
+    "en": "A short bio about the doctor’s experience — to be replaced with the approved bio."
+  },
+  "qualifications": [],
+  "services": [
+    "laboratory"
+  ],
+  "schedule": [
+    {
+      "day": "0",
+      "from": "11:00",
+      "to": "15:00"
+    },
+    {
+      "day": "2",
+      "from": "11:00",
+      "to": "15:00"
+    }
+  ]
+}

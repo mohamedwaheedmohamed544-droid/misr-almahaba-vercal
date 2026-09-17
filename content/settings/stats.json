@@ -1,0 +1,58 @@
+{
+  "enabled": true,
+  "asOf": {
+    "ar": "وفق ما أُعلن في مايو 2026",
+    "en": "As announced in May 2026"
+  },
+  "source": "https://www.elwatannews.com/news/details/8283910",
+  "items": [
+    {
+      "number": 144,
+      "prefix": "",
+      "label": {
+        "ar": "سريرًا للإقامة",
+        "en": "inpatient beds"
+      }
+    },
+    {
+      "number": 7,
+      "prefix": "",
+      "label": {
+        "ar": "طوابق",
+        "en": "floors"
+      }
+    },
+    {
+      "number": 4,
+      "prefix": "",
+      "label": {
+        "ar": "غرف عمليات",
+        "en": "operating rooms"
+      }
+    },
+    {
+      "number": 11,
+      "prefix": "",
+      "label": {
+        "ar": "جهاز غسيل كلوي",
+        "en": "dialysis machines"
+      }
+    },
+    {
+      "number": 9,
+      "prefix": "",
+      "label": {
+        "ar": "حضانات",
+        "en": "incubators"
+      }
+    },
+    {
+      "number": 600,
+      "prefix": "~",
+      "label": {
+        "ar": "مريض يوميًا بالعيادات",
+        "en": "outpatients a day"
+      }
+    }
+  ]
+}

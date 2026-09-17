@@ -1,0 +1,74 @@
+{
+  "story": {
+    "title": {
+      "ar": "من «راعي مصر» إلى «مصر المحبة»",
+      "en": "From “Raei Misr” to “Misr Al-Mahaba”"
+    },
+    "image": "/uploads/building-full.webp",
+    "paragraphs": [
+      {
+        "ar": "أُنشئت المستشفى في الأصل باسم «راعي مصر»، ثم انتقلت تبعيتها في أبريل 2018 إلى أسقفية الخدمات العامة والاجتماعية بالكنيسة القبطية الأرثوذكسية، وتغيّر اسمها إلى «مصر المحبة». وافتُتحت رسميًا في مارس 2019.",
+        "en": "The hospital was originally built as “Raei Misr”. In April 2018 it passed to the Coptic Orthodox Church’s Bishopric of Public and Social Services and was renamed “Misr Al-Mahaba”. It officially opened in March 2019."
+      },
+      {
+        "ar": "تقع المستشفى على الطريق الزراعي مصر–أسوان عند المدخل الجنوبي لمدينة بني مزار، في مبنى من سبعة طوابق يضم 144 سريرًا، وتخدم قرابة 600 ألف مواطن.",
+        "en": "It stands on the Cairo–Aswan agricultural road at the southern entrance of Beni Mazar, in a seven-storey building with 144 beds, serving roughly 600,000 people."
+      },
+      {
+        "ar": "في مايو 2026 أصبحت أول منشأة صحية بمحافظة المنيا تحصل على الاعتماد النهائي من الهيئة العامة للاعتماد والرقابة الصحية، وانضمت إلى منظومة التأمين الصحي الشامل.",
+        "en": "In May 2026 it became the first healthcare facility in Minya to earn final accreditation from GAHAR, and joined the Universal Health Insurance system."
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": {
+        "ar": "أبريل 2018",
+        "en": "April 2018"
+      },
+      "title": {
+        "ar": "انتقال التبعية وتغيير الاسم",
+        "en": "New ownership and name"
+      }
+    },
+    {
+      "date": {
+        "ar": "مارس 2019",
+        "en": "March 2019"
+      },
+      "title": {
+        "ar": "الافتتاح الرسمي",
+        "en": "Official opening"
+      }
+    },
+    {
+      "date": {
+        "ar": "مايو 2026",
+        "en": "May 2026"
+      },
+      "title": {
+        "ar": "اعتماد GAHAR النهائي",
+        "en": "Final GAHAR accreditation"
+      }
+    },
+    {
+      "date": {
+        "ar": "2026",
+        "en": "2026"
+      },
+      "title": {
+        "ar": "الانضمام للتأمين الصحي الشامل",
+        "en": "Joined Universal Health Insurance"
+      }
+    }
+  ],
+  "vision": {
+    "ar": "",
+    "en": ""
+  },
+  "mission": {
+    "ar": "",
+    "en": ""
+  },
+  "values": []
+}

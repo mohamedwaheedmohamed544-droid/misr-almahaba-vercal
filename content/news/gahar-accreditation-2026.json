@@ -1,0 +1,37 @@
+{
+  "slug": "gahar-accreditation-2026",
+  "published": true,
+  "type": "news",
+  "date": "2026-05-13",
+  "dateLabel": "",
+  "image": "/uploads/building-full.webp",
+  "title": {
+    "ar": "مستشفى مصر المحبة أول منشأة بالمنيا تحصل على الاعتماد النهائي من GAHAR",
+    "en": "Misr Al-Mahaba becomes Minya’s first facility with final GAHAR accreditation"
+  },
+  "excerpt": {
+    "ar": "أعلن محافظ المنيا خلال جولته بالمستشفى حصولها على الاعتماد النهائي وانضمامها لمنظومة التأمين الصحي الشامل.",
+    "en": "During a visit to the hospital, Minya’s governor announced its final accreditation and its entry into Universal Health Insurance."
+  },
+  "body": [
+    {
+      "ar": "تفقد محافظ المنيا مستشفى مصر المحبة ببني مزار، معلنًا حصولها على الاعتماد النهائي من الهيئة العامة للاعتماد والرقابة الصحية (GAHAR)، لتكون أول منشأة بالمحافظة تحقق ذلك.",
+      "en": "Minya’s governor visited Misr Al-Mahaba Hospital in Beni Mazar and announced it had received final accreditation from the General Authority for Healthcare Accreditation and Regulation (GAHAR) — the first facility in the governorate to do so."
+    },
+    {
+      "ar": "وبحسب ما أُعلن، يقع المبنى على سبعة طوابق ويضم 144 سريرًا و4 غرف عمليات منها غرفة «الكبسولة»، و9 حضانات، و11 جهاز غسيل كلوي، إضافة إلى بنك دم ومختبر ووحدة أشعة مزودة بجهاز رنين مغناطيسي.",
+      "en": "According to the announcement, the seven-storey building has 144 beds, 4 operating rooms including the “Capsule” suite, 9 incubators and 11 dialysis machines, plus a blood bank, laboratory and an imaging unit with MRI."
+    },
+    {
+      "ar": "وتستقبل العيادات الخارجية نحو 600 مريض يوميًا، فيما تخدم المستشفى قرابة 600 ألف مواطن، وانضمت مؤخرًا إلى منظومة التأمين الصحي الشامل.",
+      "en": "Its outpatient clinics see around 600 patients a day, the hospital serves roughly 600,000 residents, and it recently joined the Universal Health Insurance system."
+    }
+  ],
+  "source": {
+    "name": {
+      "ar": "الوطن",
+      "en": "El Watan"
+    },
+    "url": "https://www.elwatannews.com/news/details/8283910"
+  }
+}

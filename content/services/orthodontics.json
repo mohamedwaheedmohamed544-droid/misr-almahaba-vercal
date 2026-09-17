@@ -1,0 +1,38 @@
+{
+  "slug": "orthodontics",
+  "order": 11,
+  "published": true,
+  "icon": "tooth",
+  "category": "treatment",
+  "dept": "dentistry",
+  "bookable": true,
+  "image": "",
+  "name": {
+    "ar": "تقويم الأسنان",
+    "en": "Orthodontics"
+  },
+  "summary": {
+    "ar": "التقويم المعدني لتصحيح اصطفاف الأسنان والإطباق.",
+    "en": "Metal braces to correct tooth alignment and bite."
+  },
+  "offers": [
+    {
+      "ar": "التقويم المعدني",
+      "en": "Metal braces"
+    },
+    {
+      "ar": "زيارات المتابعة الدورية",
+      "en": "Regular follow-up visits"
+    }
+  ],
+  "forWhom": [
+    {
+      "ar": "الأطفال والمراهقون والبالغون",
+      "en": "Children, teens and adults"
+    }
+  ],
+  "note": {
+    "ar": "",
+    "en": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "uhi",
+  "order": 12,
+  "published": true,
+  "icon": "shield",
+  "category": "support",
+  "dept": "",
+  "bookable": false,
+  "image": "",
+  "name": {
+    "ar": "التأمين الصحي الشامل",
+    "en": "Universal Health Insurance"
+  },
+  "summary": {
+    "ar": "المستشفى ضمن منظومة التأمين الصحي الشامل في محافظة المنيا.",
+    "en": "The hospital is part of the Universal Health Insurance system in Minya."
+  },
+  "offers": [
+    {
+      "ar": "استقبال المنتفعين بمنظومة التأمين الصحي الشامل",
+      "en": "Serving Universal Health Insurance beneficiaries"
+    }
+  ],
+  "forWhom": [
+    {
+      "ar": "المنتفعون بالمنظومة في محافظة المنيا",
+      "en": "Beneficiaries in Minya Governorate"
+    }
+  ],
+  "note": {
+    "ar": "",
+    "en": ""
+  }
+}

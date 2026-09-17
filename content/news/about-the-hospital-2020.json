@@ -1,0 +1,33 @@
+{
+  "slug": "about-the-hospital-2020",
+  "published": true,
+  "type": "news",
+  "date": "2020-01-01",
+  "dateLabel": "2020",
+  "image": "/uploads/building-hero.webp",
+  "title": {
+    "ar": "«مصر المحبة».. صرح طبي في الصعيد بخدمات متكاملة",
+    "en": "Misr Al-Mahaba: a comprehensive medical landmark in Upper Egypt"
+  },
+  "excerpt": {
+    "ar": "تقرير صحفي يستعرض أقسام المستشفى وموقعها على الطريق الزراعي مصر–أسوان.",
+    "en": "A press feature on the hospital’s departments and its location on the Cairo–Aswan road."
+  },
+  "body": [
+    {
+      "ar": "تناول تقرير صحفي المستشفى بوصفها صرحًا طبيًا يخدم أهالي شمال محافظة المنيا، ويقع على الطريق الزراعي مصر–أسوان عند المدخل الجنوبي لمدينة بني مزار.",
+      "en": "A press feature described the hospital as a medical landmark serving northern Minya, located on the Cairo–Aswan agricultural road at the southern entrance of Beni Mazar."
+    },
+    {
+      "ar": "واستعرض التقرير أقسام الطوارئ ووحدة الإنعاش، والغسيل الكلوي مع قسم منفصل لمرضى فيروس سي، وغرف العمليات، والحضانات، والعيادات الخارجية، والعلاج الطبيعي، والمختبر، والأشعة، والعناية المركزة.",
+      "en": "It covered emergency and resuscitation, dialysis with a separate hepatitis C section, operating rooms, incubators, outpatient clinics, physiotherapy, the laboratory, imaging and intensive care."
+    }
+  ],
+  "source": {
+    "name": {
+      "ar": "الوطن",
+      "en": "El Watan"
+    },
+    "url": "https://www.elwatannews.com/news/details/4243334"
+  }
+}

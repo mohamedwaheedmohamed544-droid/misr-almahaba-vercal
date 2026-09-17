@@ -1,0 +1,48 @@
+{
+  "slug": "nicu",
+  "order": 5,
+  "published": true,
+  "icon": "baby",
+  "category": "acute",
+  "bookable": false,
+  "image": "",
+  "name": {
+    "ar": "رعاية حديثي الولادة",
+    "en": "Newborn Care"
+  },
+  "summary": {
+    "ar": "حضانات مجهزة لرعاية المواليد الذين يحتاجون متابعة خاصة بعد الولادة.",
+    "en": "Equipped incubators for newborns who need special monitoring after birth."
+  },
+  "intro": {
+    "ar": "يوفر القسم حضانات مجهزة لرعاية حديثي الولادة الذين يحتاجون إلى مراقبة أو رعاية خاصة في أيامهم الأولى.",
+    "en": "The unit provides equipped incubators for newborns who need monitoring or special care in their first days."
+  },
+  "offers": [
+    {
+      "ar": "حضانات مجهزة",
+      "en": "Equipped incubators"
+    },
+    {
+      "ar": "متابعة طبية وتمريضية للمواليد",
+      "en": "Medical and nursing follow-up for newborns"
+    }
+  ],
+  "forWhom": [
+    {
+      "ar": "المواليد المبتسرون",
+      "en": "Premature babies"
+    },
+    {
+      "ar": "المواليد الذين يحتاجون مراقبة خاصة",
+      "en": "Newborns needing close monitoring"
+    }
+  ],
+  "services": [
+    "laboratory"
+  ],
+  "note": {
+    "ar": "",
+    "en": ""
+  }
+}

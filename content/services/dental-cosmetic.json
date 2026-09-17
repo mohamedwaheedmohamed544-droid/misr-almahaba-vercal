@@ -1,0 +1,54 @@
+{
+  "slug": "dental-cosmetic",
+  "order": 9,
+  "published": true,
+  "icon": "tooth",
+  "category": "treatment",
+  "dept": "dentistry",
+  "bookable": true,
+  "image": "",
+  "name": {
+    "ar": "تجميل وعلاج الأسنان",
+    "en": "Cosmetic & Restorative Dentistry"
+  },
+  "summary": {
+    "ar": "الحشوات التجميلية، علاج العصب، التيجان والفينير، التبييض وتنظيف اللثة.",
+    "en": "Cosmetic fillings, root canals, crowns and veneers, whitening and gum cleaning."
+  },
+  "offers": [
+    {
+      "ar": "الحشوات التجميلية",
+      "en": "Cosmetic fillings"
+    },
+    {
+      "ar": "علاج العصب",
+      "en": "Root canal treatment"
+    },
+    {
+      "ar": "التيجان والقشور",
+      "en": "Crowns and veneers"
+    },
+    {
+      "ar": "تبييض الأسنان",
+      "en": "Whitening"
+    },
+    {
+      "ar": "تنظيف اللثة",
+      "en": "Gum cleaning"
+    }
+  ],
+  "forWhom": [
+    {
+      "ar": "الكبار والأطفال",
+      "en": "Adults and children"
+    },
+    {
+      "ar": "من يرغب في تحسين مظهر ابتسامته",
+      "en": "Anyone wanting a better-looking smile"
+    }
+  ],
+  "note": {
+    "ar": "",
+    "en": ""
+  }
+}

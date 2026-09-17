@@ -1,0 +1,36 @@
+{
+  "id": "dr-surgery-1",
+  "order": 6,
+  "published": true,
+  "sample": true,
+  "photo": "",
+  "name": {
+    "ar": "اسم الجرّاح",
+    "en": "Surgeon name"
+  },
+  "title": {
+    "ar": "استشاري الجراحة",
+    "en": "Consultant surgeon"
+  },
+  "dept": "surgery",
+  "bio": {
+    "ar": "نبذة مختصرة عن الطبيب وخبراته — تُستبدل بالنبذة المعتمدة.",
+    "en": "A short bio about the doctor’s experience — to be replaced with the approved bio."
+  },
+  "qualifications": [],
+  "services": [
+    "capsule-or"
+  ],
+  "schedule": [
+    {
+      "day": "1",
+      "from": "17:00",
+      "to": "21:00"
+    },
+    {
+      "day": "4",
+      "from": "17:00",
+      "to": "21:00"
+    }
+  ]
+}

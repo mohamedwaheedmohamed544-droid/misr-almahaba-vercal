@@ -1,0 +1,37 @@
+{
+  "id": "dr-physio-2",
+  "order": 4,
+  "published": true,
+  "sample": true,
+  "photo": "",
+  "name": {
+    "ar": "اسم أخصائية العلاج الطبيعي",
+    "en": "Physiotherapist name"
+  },
+  "title": {
+    "ar": "أخصائية علاج طبيعي وتأهيل",
+    "en": "Physiotherapy & rehab specialist"
+  },
+  "dept": "physiotherapy",
+  "bio": {
+    "ar": "نبذة مختصرة عن الطبيب وخبراته — تُستبدل بالنبذة المعتمدة.",
+    "en": "A short bio about the doctor’s experience — to be replaced with the approved bio."
+  },
+  "qualifications": [],
+  "services": [
+    "stroke-rehab",
+    "back-pain"
+  ],
+  "schedule": [
+    {
+      "day": "2",
+      "from": "12:00",
+      "to": "17:00"
+    },
+    {
+      "day": "6",
+      "from": "10:00",
+      "to": "14:00"
+    }
+  ]
+}

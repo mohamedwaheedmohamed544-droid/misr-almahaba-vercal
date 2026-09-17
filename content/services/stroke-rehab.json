@@ -1,0 +1,38 @@
+{
+  "slug": "stroke-rehab",
+  "order": 7,
+  "published": true,
+  "icon": "brain",
+  "category": "treatment",
+  "dept": "physiotherapy",
+  "bookable": true,
+  "image": "",
+  "name": {
+    "ar": "التأهيل بعد الجلطات",
+    "en": "Post-Stroke Rehab"
+  },
+  "summary": {
+    "ar": "برامج تأهيل حركي تساعد المريض على استعادة استقلاليته بعد الجلطة.",
+    "en": "Motor rehabilitation that helps patients regain independence after a stroke."
+  },
+  "offers": [
+    {
+      "ar": "جلسات تأهيل حركي",
+      "en": "Motor rehab sessions"
+    },
+    {
+      "ar": "تدريب على الأنشطة اليومية",
+      "en": "Training for daily activities"
+    }
+  ],
+  "forWhom": [
+    {
+      "ar": "مرضى ما بعد الجلطات الدماغية",
+      "en": "Stroke survivors"
+    }
+  ],
+  "note": {
+    "ar": "",
+    "en": ""
+  }
+}
